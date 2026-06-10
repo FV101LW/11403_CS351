@@ -1,7 +1,7 @@
 # AI-Assisted Software Development
 
 ## I am
-- Name: Wei-li Lin / 林維立
+- Name: Wei-li Lin / 林維立 , 3rd Year IBPI student
 - Student ID: 1123533
 - GitHub Username: FV101LW
 - GitHub Profile: https://github.com/FV101LW
@@ -9,7 +9,8 @@
 - GitHub Pages URL: https://fv101lw.github.io/-FV101LW-.github.io/
 
 ## What is this Repository for?
-This repository is created to organize the assignments, notes, and other course materials of this student, preferably in folders. /
+This repository is created to organize the assignments, notes, and other course materials of this student, preferably in folders. Its role is to also give a brief introduction on what AI-assisted Software Development exactly is, what are its benefits, how is it done(Technology & Approach), and why it can be utilized in a positive manner.
+
 The materials and schoolwork of this course are organized into their **category**, such as assignments, notes, and records, with the exception of the Readme markdown file.
 
 ## Introduction
@@ -36,4 +37,8 @@ AI-assisted software development encompasses the use of artificial intelligence 
 
 ### Looking Forward
 
-As AI continues to evolve, its role in software development will expand. The future lies not in replacing developers but in creating a symbiotic relationship where AI handles routine tasks while humans focus on creativity, architectural decisions, and strategic problem-solving. The most successful developers will be those who effectively collaborate with AI tools to build better software faster.
+As AI continues to evolve, its role in software development will expand. The future lies not in replacing developers but in creating a <ins>symbiotic relationship</ins> where AI handles routine tasks while humans focus on creativity, architectural decisions, and strategic problem-solving. The most successful developers will be those who effectively collaborate with AI tools to build better software faster.
+
+This course can give college students a foundation in understanding the role of AI in software development & engineering and how to use it for their studies, and perhaps even their future career. Students taking this course will encounter lessons on how to utilize AI in tandem for coding, but in a way that does not teach and enable overreliance on AI for every task. \
+Rather, the goal is to get students to be familiarized in working **alongside** with AI, to help & correct each other, man and machine. \
+Remember, AI is not supposed to be a servant, but a partner instead.
