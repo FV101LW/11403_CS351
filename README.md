@@ -1,5 +1,17 @@
 # AI-Assisted Software Development
 
+## I am
+- Name: Wei-li Lin / 林維立
+- Student ID: 1123533
+- GitHub Username: FV101LW
+- GitHub Profile: https://github.com/FV101LW
+- Course Repository URL: https://github.com/FV101LW/11402_CS351
+- GitHub Pages URL: https://fv101lw.github.io/-FV101LW-.github.io/
+
+## What is this Repository for?
+This repository is created to organize the assignments, notes, and other course materials of this student, preferably in folders. /
+The materials and schoolwork of this course are organized into their **category**, such as assignments, notes, and records, with the exception of the Readme markdown file.
+
 ## Introduction
 
 AI-assisted software development represents a transformative shift in how software is designed, built, and maintained. By utilizing machine learning models trained on vast codebases, developers can now access intelligent tools that understand code context, anticipate needs, and accelerate development workflows.
